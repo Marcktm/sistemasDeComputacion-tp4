@@ -1,0 +1,1 @@
+savedcmd_/home/marcktm/sistemasDeComputacion-TP4/TP4/module/marckModulo.mod := printf '%s\n'   marckModulo.o | awk '!x[$$0]++ { print("/home/marcktm/sistemasDeComputacion-TP4/TP4/module/"$$0) }' > /home/marcktm/sistemasDeComputacion-TP4/TP4/module/marckModulo.mod

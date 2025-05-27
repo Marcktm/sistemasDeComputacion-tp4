@@ -1,0 +1,64 @@
+cpu:
+                       Intel(R) Celeron(R) N5100 @ 1.10GHz, 2800 MHz
+                       Intel(R) Celeron(R) N5100 @ 1.10GHz, 2800 MHz
+                       Intel(R) Celeron(R) N5100 @ 1.10GHz, 2800 MHz
+                       Intel(R) Celeron(R) N5100 @ 1.10GHz, 2800 MHz
+keyboard:
+                       Logitech Unifying Receiver
+  /dev/input/event4    AT Translated Set 2 keyboard
+mouse:
+                       Logitech Unifying Receiver
+  /dev/input/mice      DELL0A33:00 04F3:3082 Mouse
+  /dev/input/mice      DELL0A33:00 04F3:3082 Touchpad
+monitor:
+                       SM24
+                       TCP4G 116BGE LCD Monitor
+graphics card:
+                       Intel JasperLake [UHD Graphics]
+sound:
+                       Intel Audio device
+storage:
+                       Kingston Technology Company OM3PDP3 NVMe SSD
+network:
+  wlo1                 Intel Wi-Fi 6 AX201 160MHz
+network interface:
+  wlo1                 Ethernet network interface
+  lo                   Loopback network interface
+disk:
+  /dev/nvme0n1         Kingston Technology Company OM3PDP3 NVMe SSD
+partition:
+  /dev/nvme0n1p1       Partition
+  /dev/nvme0n1p2       Partition
+  /dev/nvme0n1p3       Partition
+  /dev/nvme0n1p4       Partition
+usb controller:
+                       Intel USB Controller
+bios:
+                       BIOS
+bridge:
+                       Intel PCI bridge
+                       Intel ISA bridge
+                       Intel Host bridge
+hub:
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 3.0 root hub
+memory:
+                       Main Memory
+bluetooth:
+                       Intel Bluetooth 9460/9560 Jefferson Peak (JfP)
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+                       Intel System peripheral
+                       Intel Serial IO I2C Host Controller
+                       Intel Dynamic Tuning service
+                       Intel Management Engine Interface
+                       Intel JaserLake SPI (flash) Controller
+                       Intel Serial bus controller
+                       Intel Serial IO I2C Host Controller
+                       Intel RAM memory
+                       Intel JaserLake SMBus
+                       Intel JasperLake IPU
+                       Realtek Integrated_Webcam_HD

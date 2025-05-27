@@ -1,0 +1,1 @@
+savedcmd_/home/marcktm/sistemasDeComputacion-TP4/TP4/module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/marcktm/sistemasDeComputacion-TP4/TP4/module/Module.symvers -T /home/marcktm/sistemasDeComputacion-TP4/TP4/module/modules.order -i Module.symvers -e 
